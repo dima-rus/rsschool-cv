@@ -4,10 +4,10 @@
 - Telephone number: +375445833989
 - E-mail: drusakovich@yandex.ru
 
-# Summary:
+## Summary:
 Novice frontend-developer. Knowledge of HTML, CSS.
 
-# Skills:
+## Skills:
 - HTML
 - CSS
 - Visual Studio Code
@@ -15,10 +15,10 @@ Novice frontend-developer. Knowledge of HTML, CSS.
 ## Expirience:
 [HTML Academy](https://htmlacademy.ru/profile/id1190493/achievements)
 
-# Education
+## Education
 Incomplete higher education.
 Belarusian State Agrarian Technical University (extramural studies)Minsk, Belarus.
 Speciality: energy supply in agriculture (power industry)
 
-# English:
+## English:
 (A2) Pre-Intermediate 
