@@ -1,0 +1,27 @@
+* {
+    width: 1024px;
+    padding: 6px;
+    margin: 0 auto;
+}
+
+h1 {
+	margin-top: 7%;
+	font-size: 45px;
+}
+
+h2 {
+	font-size: 30px;
+}
+
+body {
+    font-family: "Arial" sans-serif;
+    font-size: 20px;
+    line-height: 2;
+}
+
+img {
+	margin: -60px;
+	width: 520px;
+	height: 390px;
+	float: right;
+}
